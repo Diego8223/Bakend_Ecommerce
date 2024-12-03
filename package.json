@@ -1,4 +1,5 @@
 {
+  "type": "module",
   "dependencies": {
     "config": "^3.3.12",
     "cors": "^2.8.5",
