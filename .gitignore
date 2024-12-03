@@ -1,0 +1,19 @@
+# Ignorar archivos sensibles
+.env
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de dependencias
+node_modules/
+
+# Archivos de compilación y logs
+dist/
+build/
+*.log
+
+# Configuración de entornos específicos
+.vscode/
+.idea/
+*.local
